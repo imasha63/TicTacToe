@@ -15,7 +15,7 @@ Tic-Tac-Toe is a simple yet engaging game 🎮 that challenges players' strategi
 
 
 
-### Working Screenshots
+### Game Screenshots
 <div align="center">
   <img src = "https://github.com/user-attachments/assets/235a6c4a-5f38-4910-9d05-5bf19fb1de4c" alt = "" height="600px" width="300px"/>
 </div>
