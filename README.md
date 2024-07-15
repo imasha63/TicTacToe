@@ -18,7 +18,7 @@ This `TicTacToe` game develop by using Android Studio.
 
 ### Working Screenshots
 <div align="center">
-  <img src = ![Lanch_Screen](https://github.com/user-attachments/assets/235a6c4a-5f38-4910-9d05-5bf19fb1de4c) alt = "" width="700px"/>
+![Lanch_Screen](https://github.com/user-attachments/assets/235a6c4a-5f38-4910-9d05-5bf19fb1de4c)
 </div>
 <br/>
 <div align="center">
