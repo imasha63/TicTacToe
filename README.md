@@ -22,17 +22,13 @@ This `TicTacToe` game develop by using Android Studio.
 </div>
 <br/>
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Vehicle-Buying-Selling-Website/blob/main/extras/main-screen-ss-2.png" alt = "" width="700px"/>
+   <img src = "https://github.com/user-attachments/assets/7a71e9c6-4916-4536-8645-11aa19d3ee8a" alt = "" height="600px" width="300px"/>
 </div>
 <br/>
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Vehicle-Buying-Selling-Website/blob/main/extras/view-details-ss.png" alt = "" width="700px"/>
+  <img src = "https://github.com/user-attachments/assets/6ae1417e-d0f1-4422-8776-9a9484557408" alt = "" height="600px" width="300px"/>
 </div>
 <br/>
-<div align="center">
-  <img src = "https://github.com/SameetAsadullah/Vehicle-Buying-Selling-Website/blob/main/extras/add-vehicle-ss.png" alt = "" width="700px"/>
-</div>
-<br/>
-<div align="center">
-  <img src = "https://github.com/SameetAsadullah/Vehicle-Buying-Selling-Website/blob/main/extras/edit-vehicle-ss.png" alt = "" width="700px"/>
-</div>
+
+
+
